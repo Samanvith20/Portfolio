@@ -213,7 +213,7 @@ export const Bio = {
       image:
         "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
       tags:["Nextjs", "Gemini API","Axios","Nodemailer"],
-      category: "android app",
+      category: "web app",
       github: "https://github.com/Samanvith20/True-Feedback/tree/main",
       webapp: "https://github.com/rishavchanda/Job-finder-App",
     },
