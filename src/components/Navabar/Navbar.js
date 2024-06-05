@@ -7,7 +7,7 @@ import { CloseRounded } from '@mui/icons-material';
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   return (
-    <nav className="bg-gray-900 text-white p-4 flex justify-between items-center">
+    <nav className="bg-gray-900 text-white p-4 flex justify-between items-center ">
       <div className="flex items-center">
         <a href="/" className="flex items-center text-white cursor-pointer">
           <DiCssdeck size="3rem" />

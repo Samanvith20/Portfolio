@@ -42,7 +42,7 @@ function App() {
           <Projects openModal={openModal} setOpenModal={setOpenModal} />
           <div className="w-full bg-gradient-to-r from-transparent to-blue-100 via-blue-50 bg-clip-padding clip-path-polygon">
             <Education />
-            <Contact />
+            <Contact className="mt-5 p-5 w-full" />
           </div>
           <Footer />
           {openModal.state && <ProjectDetails  openModal={openModal} setOpenModal={setOpenModal}/>}

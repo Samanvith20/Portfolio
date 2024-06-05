@@ -158,7 +158,7 @@ export const Bio = {
       tags: ["React Js", "FIREBASE",  "Redux"],
       category: "web app",
       github:"https://github.com/Samanvith20/FOOD-HUB",
-      webapp: "food-hub-beta.vercel.app",
+      webapp: "https://food-hub-beta.vercel.app/",
       
     },
     {
@@ -175,7 +175,7 @@ export const Bio = {
       ],
       category: "web app",
       github: "https://github.com/Samanvith20/Gemini-2.0",
-      webapp: "https://vexa-app.netlify.app/",
+      webapp: "https://gemini-2-0-t5cpptx82-samanvith20s-projects.vercel.app/",
     },
     {
       id: 2,
@@ -202,7 +202,7 @@ export const Bio = {
       tags: ["React Js", "OpenAI ", "Firebase" ,"Redux"],
       category: "web app",
       github:"https://github.com/Samanvith20/Netflix-Gpt",
-      webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+      webapp: "netflix-bcfx6kdnn-samanvith20.vercel.app",
     },
     {
       id: 4,
