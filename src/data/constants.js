@@ -1,3 +1,4 @@
+
 export const Bio = {
     name: "Y.Samanvith Reddy",
     roles: [
@@ -10,7 +11,7 @@ export const Bio = {
       "I am a skilled Full Stack Developer specializing in frontend technologies like React.js and Next.js, and backend development with Node.js. I have a passion for creating dynamic, user-friendly web applications and a keen eye for detail. Welcome to my portfolio, where you can explore my projects and see my work in action..",
     github: "https://github.com/Samanvith20",
     resume:
-      "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+      "https://drive.google.com/file/d/1szUozZZz9x5SY5HDFrUUlHaJH8ywJnB3/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/samanvithreddy/",
     twitter: "https://x.com/yervala9972",
     email: "Samanvith2005@gmail.com"
@@ -154,7 +155,7 @@ export const Bio = {
       description:
         "Designed and developed the Food Hub project, a food ordering web app that helps users order food online. I have Integrated Swiggy`s Live API for fetching restaurant data and implemented key features such as user authentication, cart functionality,  ",
       image:
-        "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+        "https://github.com/Samanvith20/image-hosting/blob/main/foodhub.png?raw=true",
       tags: ["React Js", "FIREBASE",  "Redux"],
       category: "web app",
       github:"https://github.com/Samanvith20/FOOD-HUB",
@@ -168,7 +169,7 @@ export const Bio = {
       description:
         " Gemini is a project where I have used the gemini api to fetch the data and display it on the website. I have used React Js for the front end and user can search anything and get the data.",
       image:
-        "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+        "https://github.com/Samanvith20/image-hosting/blob/main/gemini.png?raw=true",
       tags: [
         "React Js",
         "Gemini API",
@@ -184,11 +185,11 @@ export const Bio = {
       description:
         "Foodi is a food ordering app where users can food online.I have included authentication, cart functionality, and payment gateway integration. I have used React Js for the front end and Firebase and Nodejs for the backend.",
       image:
-        "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+        "https://github.com/Samanvith20/image-hosting/blob/main/foodi.img.png?raw=true",
       tags: ["React Js", "Firebase", "Node Js", "Stripe API"],
       category: "web app",
       github: "https://github.com/Samanvith20/MERN---PROJECT",
-      webapp: "https://brain-tumor.netlify.app/",
+      webapp: "https://foodi-frontend-j5slucq8x-samanvith20s-projects.vercel.app/",
       
     },
     {
@@ -198,7 +199,7 @@ export const Bio = {
       description:
         "Netflix-Gpt is a project where I have used the OpenAI GPT-3 API to generate movie recommendations based on the user's input. I have used React Js for the front end and Firebase for the backend, and added multilanuage support.",
       image:
-        "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
+        "https://github.com/Samanvith20/image-hosting/blob/main/Netflix.png?raw=true",
       tags: ["React Js", "OpenAI ", "Firebase" ,"Redux"],
       category: "web app",
       github:"https://github.com/Samanvith20/Netflix-Gpt",
@@ -211,11 +212,11 @@ export const Bio = {
       description:
         "True Feddback is a project where generate their feedback and also I have used the Gemini api to generete some random feedback and display it on the website. ",
       image:
-        "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
+        "https://raw.githubusercontent.com/Samanvith20/image-hosting/main/truefeedback.png",
       tags:["Nextjs", "Gemini API","Axios","Nodemailer"],
       category: "web app",
       github: "https://github.com/Samanvith20/True-Feedback/tree/main",
-      webapp: "https://github.com/rishavchanda/Job-finder-App",
+      webapp: "https://true-feedback-dqmu842mx-samanvith20s-projects.vercel.app/",
     },
     
    
