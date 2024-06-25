@@ -124,102 +124,29 @@ export const Bio = {
   
   
   
-  export const education = [
-    {
+  // constants.js
+export const education = [
+  {
       id: 0,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYEeEEYUzQfAIJAawrcGceLQEauptZBzNItA&s",
       school: "CMR Technical Campus, Hyderabad",
-      date: " sept 2020 - Jun 2024",
+      date: "Sept 2020 - Jun 2024",
       grade: "7.01 CGPA",
-      desc: "I Have completed my Bachelor of Technology in Computer Science and Engineering at CMR Technical Campus, Hyderabad. I have learned various subjects like Data Structures, Algorithms, Operating Systems, and Web Development. I have also worked on various projects  to gain practical knowledge.",
+      desc: "I have completed my Bachelor of Technology in Computer Science and Engineering at CMR Technical Campus, Hyderabad. I have learned various subjects like Data Structures, Algorithms, Operating Systems, and Web Development. I have also worked on various projects to gain practical knowledge.",
       degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
-    },
-    {
+  },
+  {
       id: 1,
       img: "https://i.ytimg.com/vi/nvV_ivFV4Ns/maxresdefault.jpg",
       school: "NSR Impulse Junior College, Hyderabad",
       date: "Apr 2018 - Apr 2020",
       grade: "96.7%",
-      desc: "I completed my class 12 high school education at Nsr college, Hyderabad, where I Secured a good marks .",
+      desc: "I completed my class 12 high school education at NSR College, Hyderabad, where I secured good marks.",
       degree: "(XII), MPC",
-    },
-   
-  ];
+  },
+];
+
   
-  export const projects = [
-    
-    {
-      id: 0,
-      title: "FOOD HUB",
-      date: "DEC 2023 - Jan 2024",
-      description:
-        "Designed and developed the Food Hub project, a food ordering web app that helps users order food online. I have Integrated Swiggy`s Live API for fetching restaurant data and implemented key features such as user authentication, cart functionality,  ",
-      image:
-        "https://github.com/Samanvith20/image-hosting/blob/main/foodhub.png?raw=true",
-      tags: ["React Js", "FIREBASE",  "Redux"],
-      category: "web app",
-      github:"https://github.com/Samanvith20/FOOD-HUB",
-      webapp: "https://food-hub-beta.vercel.app/",
-      
-    },
-    {
-      id: 1,
-      title: "Gemini",
-      date: "mar 2024",
-      description:
-        " Gemini is a project where I have used the gemini api to fetch the data and display it on the website. I have used React Js for the front end and user can search anything and get the data.",
-      image:
-        "https://github.com/Samanvith20/image-hosting/blob/main/gemini.png?raw=true",
-      tags: [
-        "React Js",
-        "Gemini API",
-      ],
-      category: "web app",
-      github: "https://github.com/Samanvith20/Gemini-2.0",
-      webapp: "https://gemini-2-0-t5cpptx82-samanvith20s-projects.vercel.app/",
-    },
-    {
-      id: 2,
-      title: "Foodi",
-      date: "mar 2024 - April 2024",
-      description:
-        "Foodi is a food ordering app where users can food online.I have included authentication, cart functionality, and payment gateway integration. I have used React Js for the front end and Firebase and Nodejs for the backend.",
-      image:
-        "https://github.com/Samanvith20/image-hosting/blob/main/foodi.img.png?raw=true",
-      tags: ["React Js", "Firebase", "Node Js", "Stripe API"],
-      category: "web app",
-      github: "https://github.com/Samanvith20/MERN---PROJECT",
-      webapp: "https://foodi-frontend-j5slucq8x-samanvith20s-projects.vercel.app/",
-      
-    },
-    {
-      id: 3,
-      title: "Netflix-GPT",
-      date: "jan 2024 - Feb 2024",
-      description:
-        "Netflix-Gpt is a project where I have used the OpenAI GPT-3 API to generate movie recommendations based on the user's input. I have used React Js for the front end and Firebase for the backend, and added multilanuage support.",
-      image:
-        "https://github.com/Samanvith20/image-hosting/blob/main/Netflix.png?raw=true",
-      tags: ["React Js", "OpenAI ", "Firebase" ,"Redux"],
-      category: "web app",
-      github:"https://github.com/Samanvith20/Netflix-Gpt",
-      webapp: "netflix-bcfx6kdnn-samanvith20.vercel.app",
-    },
-    {
-      id: 4,
-      title: "True Feddback",
-      date: "Apr 2024 - May 2024",
-      description:
-        "True Feddback is a project where generate their feedback and also I have used the Gemini api to generete some random feedback and display it on the website. ",
-      image:
-        "https://raw.githubusercontent.com/Samanvith20/image-hosting/main/truefeedback.png",
-      tags:["Nextjs", "Gemini API","Axios","Nodemailer"],
-      category: "web app",
-      github: "https://github.com/Samanvith20/True-Feedback/tree/main",
-      webapp: "https://true-feedback-dqmu842mx-samanvith20s-projects.vercel.app/",
-    },
-    
-   
-  ];
+  
   
   

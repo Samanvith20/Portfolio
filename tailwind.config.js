@@ -1,34 +1,23 @@
 /** @type {import('tailwindcss').Config} */
-module.exports = {
+export default {
   content: [
-    "./src/**/*.{js,jsx,ts,tsx}",
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: { 
-      clipPath: {
-        'custom': 'polygon(0 0, 100% 0, 100% 100%, 100% 98%, 0 100%)',
-      },
+    extend: {
       colors: {
-      primary: '"#854CE6', 
-      text_primary: '#C8CFD8',
-      white: '#ffffff',
-      'theme-card': '#f8f9fa', // Light grayish color for card backgrounds
-      'theme-primary': '#6366f1', // Blueish color for primary elements
-      'theme-text_secondary': '#4b5563', // Dark gray for secondary text
-      'theme-text_black': '#111827', // Almost black for primary text
-      'theme-text_primary': '#111827', // your theme color
-        'theme-bgLight': '#e5e7eb', // light background color
-        'theme-bg': '#d1d5db', // background color
+        blue: "#64E9EE",
+        gray: {
+          DEFAULT: "#86868b",
+          100: "#94928d",
+          200: "#afafaf",
+          300: "#42424570",
+        },
+        zinc: "#101010",
+
+      },
     },
-    display: ['hover', 'focus'],
-    backgroundImage: {
-      'gradient-hero': 'linear-gradient(225deg, hsla(271, 100%, 50%, 1) 0%, hsla(294, 100%, 50%, 1) 100%)',
-    },
-    boxShadow: {
-      'custom-shadow': '20px 20px 60px #1F2634, -20px -20px 60px #1F2634',
-    },},
   },
-  plugins: [
-    require('@tailwindcss/line-clamp'),
-  ],
+  plugins: [],
 }

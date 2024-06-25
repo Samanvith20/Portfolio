@@ -1,14 +1,12 @@
 import React from 'react';
-import HeroBgAnimation from '../HeroBgAnimation';
-import { Bio } from '../../data/constants';
+
+import { Bio } from '../data/constants';
 import Typewriter from 'typewriter-effect';
 
-const HeroSection = () => {
+const Hero = () => {
   return (
     <div id="about" className="relative flex justify-center bg-white py-20 px-8 md:px-16 lg:px-32 z-10">
-      <div className="absolute inset-0 flex justify-end overflow-hidden">
-        <HeroBgAnimation className="w-full h-full max-w-screen-xl m-auto transform translate-x-1/2 translate-y-1/2 md:justify-center" />
-      </div>
+      
       <div className="relative flex flex-col md:flex-row items-center justify-between w-full max-w-screen-lg z-20">
         <div className="w-full order-1 md:order-2 flex flex-col items-center mb-8 md:mb-0">
           <div className="text-center md:text-left text-4xl md:text-5xl font-bold text-gray-800 leading-tight mb-2">
@@ -43,4 +41,4 @@ const HeroSection = () => {
   );
 };
 
-export default HeroSection;
+export default Hero;
