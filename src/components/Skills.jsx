@@ -7,7 +7,7 @@ const Skills = () => {
       <div className="flex flex-col items-center justify-between w-full max-w-4xl gap-3 relative">
         <div className="text-4xl text-center font-semibold mt-5 text-theme-text_primary md:mt-3 md:text-3xl">Skills</div>
         <div className="text-lg text-center max-w-3xl text-theme-text_secondary md:text-base">
-          Here are some of my skills on which I have been working on for the past 2 years.
+          Here are some of my skills on which I have been working on for the past 1 year.
         </div>
         <div className="w-full flex flex-wrap justify-center mt-7 gap-7">
           {skills.map((skill) => (
