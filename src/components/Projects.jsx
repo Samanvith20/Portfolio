@@ -17,6 +17,14 @@ export default function Projects() {
         techStack: ["React Js", "Firebase", "Redux"],
     },
     {
+      title:"Roomate Finder",
+      image:"/assets/RoomateFinder.png",
+      demo: "https://roomatefinder-ds6mm3b7v-samanvith20s-projects.vercel.app/",
+      github: "https://github.com/Samanvith20/Roomatefinder",
+      description: " A full-stack website built using React, Tailwind CSS, and Firebase to simplify the process of finding a roommate. Implemented Authentication and Database CRUD operations. Integrated Google's GeoCoding API to fetch coordinates and show the flat's location on a map.",
+      techStack: ["React", "Tailwind CSS", "Firebase"],
+    },
+    {
         title: "Gemini",
         image: "https://github.com/Samanvith20/image-hosting/blob/main/gemini.png?raw=true",
         demo: "https://gemini-2-0-t5cpptx82-samanvith20s-projects.vercel.app/",
